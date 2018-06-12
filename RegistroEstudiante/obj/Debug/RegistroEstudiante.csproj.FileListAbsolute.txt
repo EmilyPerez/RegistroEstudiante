@@ -1,0 +1,21 @@
+C:\Users\Jennifer Magallanes\Desktop\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer Magallanes\Desktop\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer Magallanes\Desktop\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.exe.config
+C:\Users\Jennifer Magallanes\Desktop\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.exe
+C:\Users\Jennifer Magallanes\Desktop\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.pdb
+C:\Users\Jennifer Magallanes\Desktop\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.exe
+C:\Users\Jennifer Magallanes\Desktop\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.pdb
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.exe.config
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.exe
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.pdb
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.exe
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.pdb
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\Proyecto Final\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.exe.config
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\Proyecto Final\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.exe
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\Proyecto Final\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.pdb
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\Proyecto Final\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\Proyecto Final\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\Proyecto Final\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.exe
+C:\Users\Jennifer Magallanes\Dropbox\intec\4to\Programacion\Proyecto Final\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.pdb
